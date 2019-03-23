@@ -2,6 +2,5 @@ Primeira linha do arquivo UM
 
 Mod2
 MOD3
-mod4
-moD5
+Qualquer outra coisa
 MOd6
